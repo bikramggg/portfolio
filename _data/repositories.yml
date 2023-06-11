@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Bmg09
+  - bikramggg
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - bikramggg/portfolio
+  - Bmg09/fastapi
+  - Bmg09/sign-language-interpreter
+  - Bmg09/fernetpython3
+  - Bmg09/FirebaseRecyclerView
+  - Bmg09/Workoutapp
+  - Bmg09/learning-log
+  - Bmg09/Notificationservice
+  - Bmg09/BitsandPizza
